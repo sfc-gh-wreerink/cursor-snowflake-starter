@@ -40,8 +40,6 @@ cd cursor-snowflake-starter
 
 ---
 
----
-
 ## ▶️ Optional: Run the Streamlit Demo App
 
 If you'd like to explore building a frontend around your queries:
