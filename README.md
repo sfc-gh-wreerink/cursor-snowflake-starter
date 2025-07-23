@@ -78,27 +78,6 @@ export $(cat .env | xargs)  # for Unix/macOS
 streamlit run app/app.py
 ```
 
-If you'd like to explore building a frontend around your queries:
-
-### 1. Create a virtual environment
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the app
-
-```bash
-streamlit run app/app.py
-```
-
 ---
 
 ## 📂 Repo Structure
