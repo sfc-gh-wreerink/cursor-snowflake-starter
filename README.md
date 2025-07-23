@@ -1,3 +1,4 @@
+# * PLEASE FORK *
 # Cursor Snowflake Starter 🚀
 
 This lightweight starter repo helps Snowflake Solutions Engineers build fast, repeatable demos and POCs using CursorAI and Streamlit.
