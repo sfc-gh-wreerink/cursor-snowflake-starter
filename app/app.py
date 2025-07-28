@@ -1,3 +1,6 @@
+# Snowflake Analytics Studio - Enhanced with fancy UI and persistent connections
+# Test comment: Authentication setup verified! 🎉
+
 import streamlit as st
 import os
 import snowflake.connector
